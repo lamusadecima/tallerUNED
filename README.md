@@ -2,11 +2,11 @@
 
 16 de diciembre de 2022
 
-Organizan: [Facultad de Filología de la UNED] (https://www.uned.es/universidad/facultades/filologia.html) y [LINHD] (https://linhd.uned.es/).
+Organizan: [Facultad de Filología de la UNED](https://www.uned.es/universidad/facultades/filologia.html) y [LINHD](https://linhd.uned.es/).
 
-Dirige: María D. Martos, IP de [Bieses] (https://www.bieses.net/)
+Dirige: María D. Martos, IP de [Bieses](https://www.bieses.net/)
 
-Profesores: 
+Profesores: José Luis Losada Palenzuela y Laura Hernández-Lorenzo.
 
 En este repositorio, encontrarán los materiales del taller.
 
