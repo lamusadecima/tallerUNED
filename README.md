@@ -1,7 +1,7 @@
 # tallerUNED
-Materiales para el Taller formativo sobre análisis de redes y estilometría: las herramientas Gephi, R, RStudio, stylo
+Materiales para el Taller formativo sobre análisis de redes y estilometría: las herramientas Gephi, R, RStudio, stylo, que se celebrará en la UNED el 16 de diciembre de 2022.
 
-# PROGRAMA
+## Programa
 10.00-13.30 Sesión formativa I: Iniciación al uso y aplicaciones de Gephi.
 
 Prof. José Luis Losada (Universidad de Wroclaw)
