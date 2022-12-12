@@ -23,4 +23,4 @@ Todos los materiales de esta sesión están en: <https://github.com/editio/datav
 
 Prof. Laura Hernández Lorenzo (Universidad de Sevilla)
 
-Los materiales de esta sesión se incluyen en las carpetas "corpus" y "código" del presente repositorio.
+Los materiales de esta sesión se incluyen en las carpetas "corpus" y "code" del presente repositorio.
