@@ -17,7 +17,9 @@ Prof. José Luis Losada (Universidad de Wroclaw)
 
 Todos los materiales de esta sesión están en: <https://github.com/editio/dataviz_gephi>
 
+
 13.30-16.00 Comida
+
 
 16.00-18.30 Sesión formativa II: Iniciación a la estilometría. Análisis de redes estilométricas.
 
