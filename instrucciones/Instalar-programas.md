@@ -20,9 +20,6 @@ En esta página, aparecerá un primer bloque titulado “Download and install R"
 
 - En cambio, si tienes un Mac, debes hacer clic sobre “Download R for (Mac) OS X”. En la nueva página, fíjate en la sección “Latest release” . Pincha en el enlace para descargar la última versión (durante la redacción de estas instrucciones era “R-4.2.2.pkg"), teniendo en cuenta que la descripción sea compatible con tu sistema operativo. Después, procede como harías con cualquier otro programa para Mac.
 
-¡Ojo! Si usas Mac, antes de instalar `stylo`, debes descargarte XQuartz. Para ello, ve a https://www.xquartz.org/ , descarga e instala el programa (durante la redacción de estas instrucciones en versión 2.8.3, 2022-12-09, "XQuartz-2.8.1.dmg").  Una vez instalado, vuelve a arrancar R Studio para que lo reconozca.
-
-<!-- Atención a las últimas versiones para no confundir, quizá redactar de otra manera -->
 
 Tienes un tutorial sobre cómo instalar R en Windows paso a paso, preparado por el profesor José Manuel Fradejas, aquí: https://www.youtube.com/watch?v=Gcgm6EJbCV8 
 
@@ -40,3 +37,4 @@ Navega hacia abajo hasta que encuentres "All Installers and Tarballs". A continu
 
 Si todo ha ido bien, además del acceso directo a R, tendrás en el Escritorio (Windows) o en el Launchpad (Mac) otro acceso directo para R Studio.
  
+¡Ojo! Si usas Mac, también debes descargarte XQuartz. Para ello, ve a https://www.xquartz.org/ , descarga e instala el programa (durante la redacción de estas instrucciones en versión 2.8.3, 2022-12-09, "XQuartz-2.8.1.dmg").  Una vez instalado, vuelve a arrancar R Studio para que lo reconozca.
