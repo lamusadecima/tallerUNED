@@ -38,3 +38,5 @@ Navega hacia abajo hasta que encuentres "All Installers and Tarballs". A continu
 Si todo ha ido bien, además del acceso directo a R, tendrás en el Escritorio (Windows) o en el Launchpad (Mac) otro acceso directo para R Studio.
  
 ¡Ojo! Si usas Mac, también debes descargarte XQuartz. Para ello, ve a https://www.xquartz.org/ , descarga e instala el programa (durante la redacción de estas instrucciones en versión 2.8.3, 2022-12-09, "XQuartz-2.8.1.dmg").  Una vez instalado, vuelve a arrancar R Studio para que lo reconozca.
+
+¡Ya estás listo para el taller!
