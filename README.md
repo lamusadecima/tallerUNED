@@ -22,4 +22,5 @@ Todos los materiales de esta sesión están en: <https://github.com/editio/datav
 
 Prof. Laura Hernández Lorenzo (Universidad de Sevilla)
 
-Los materiales de esta sesión se incluyen en las carpetas "corpus" y "code" del presente repositorio.
+Los materiales de esta sesión se incluyen en las carpetas "corpus" y "code" del presente repositorio. El corpus que utilizamos ha sido preparado por José Calvo como parte del proyecto GLiGS: Corpus de novelas de la Edad de Plata, editado por José Calvo Tello. Würzburg: CLiGS, 2017. <https://github.com/cligs/textbox/tree/master/spanish/novela-espanola>.
+
