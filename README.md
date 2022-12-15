@@ -8,7 +8,7 @@ Dirige: María D. Martos, IP de [Bieses](https://www.bieses.net/)
 
 Profesores: José Luis Losada Palenzuela y Laura Hernández-Lorenzo.
 
-En este repositorio, encontrarán los materiales del taller.
+En este repositorio, encontrarán los materiales del taller o enlaces a los mismos.
 
 ## Programa
 ### 10.00-13.30 Sesión formativa I: Iniciación al uso y aplicaciones de Gephi.
